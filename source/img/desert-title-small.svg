@@ -1,0 +1,14 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1816px" height="33.85px" viewBox="0 0 1816 33.85" x="0px" y="0px">
+  <defs>
+    <linearGradient id="linear-gradient" x1="238" y1="18.09" x2="1816" y2="18.09" gradientTransform="matrix(1, 0, 0, -1, 0, 35.04)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#feda0e"/>
+      <stop offset="1" stop-color="#feda0e" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <title>desert-title-small</title>
+  <g>
+    <text xml:space="preserve" text-anchor="start" font-family="'League Gothic', sans-serif" font-size="92" id="svg_1" y="226.5" x="53.5" stroke="#000" fill="#000000">Wilderness</text>
+  </g>
+  <rect y="8.64" width="52.69" height="16.61" fill="#feda0e"/>
+  <rect x="238" y="8.64" width="1578" height="16.61" fill="url(#linear-gradient)"/>
+</svg>
